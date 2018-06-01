@@ -14,6 +14,6 @@ keypoints:
 - "Templates do the work for you, you provide the content."
 ---
 
-Blah!
+This is where the content goes.
 
 {% include links.md %}
