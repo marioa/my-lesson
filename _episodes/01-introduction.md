@@ -1,13 +1,19 @@
 ---
-title: "Introduction"
-teaching: 0
-exercises: 0
+title: "Introduction to my TestLesson"
+teaching: 30
+exercises: 10
 questions:
-- "Key question"
+- "Can I write a lesson?"
+- "Will this work?"
+- "What next?"
 objectives:
-- "First objective."
+- "Proof of competence."
+- "Proof of existence."
+- "Ability to write a lesson.:
 keypoints:
-- "First key point."
+- "Templates do the work for you, you provide the content."
 ---
+
+Blah!
 
 {% include links.md %}
