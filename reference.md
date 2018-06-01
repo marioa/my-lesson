@@ -6,5 +6,6 @@ layout: reference
 
 repository
 :   A group of files in GitHub.
-Got
+
+Git
 :   Version control system.
