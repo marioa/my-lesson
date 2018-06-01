@@ -1,6 +1,6 @@
-# FIXME Lesson title
+# My lesson
 
-FIXME
+Workshop during CarpentryCon
 
 ## Contributing
 
@@ -15,7 +15,7 @@ and have a look at the [more detailed guidelines][lesson-example] on proper form
 
 ## Maintainer(s)
 
-* FIXME
+None
 
 ## Authors
 
