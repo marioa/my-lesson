@@ -64,7 +64,7 @@ You can use code blocks inside exercises.
 > > Exercise  are inisde a `>` - block and each block must have:
 > >
 > > ```{r}
-> >  x <- 1
+> > x <- 1
 > > 1 -> y
 > > x + y
 > > ```
