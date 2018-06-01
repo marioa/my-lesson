@@ -23,3 +23,5 @@ This is our first exercise
 > > - a title
 > > - exercise body
 > > - solution to exercise
+> {: .solution}
+{: .challenge}
