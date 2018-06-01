@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Exercise"
+title: "Introduction to Implementing an Exercise"
 teaching: 30
 exercises: 10
 questions:
@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Know how to write an exercise"
 keypoints:
-- "Exercise are written in side a ."`>` - block.
+- "Exercise are written in side a `>` - block."
 ---
 
 This is our first exercise
