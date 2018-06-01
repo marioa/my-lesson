@@ -1,5 +1,5 @@
 ---
-title: "Introduction to my TestLesson"
+title: "Introduction to my Test Lesson"
 teaching: 30
 exercises: 10
 questions:
@@ -9,7 +9,7 @@ questions:
 objectives:
 - "Proof of competence."
 - "Proof of existence."
-- "Ability to write a lesson.:
+- "Ability to write a lesson."
 keypoints:
 - "Templates do the work for you, you provide the content."
 ---
