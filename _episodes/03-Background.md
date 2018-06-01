@@ -7,5 +7,5 @@ questions:
 objectives:
 - "Add lesson 3"
 keypoints:
-- "YANOTHER Lesson"
+- "Yet Another Lesson"
 ---
