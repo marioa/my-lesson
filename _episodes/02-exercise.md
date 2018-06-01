@@ -10,6 +10,33 @@ keypoints:
 - "Exercise are written in side a `>` - block."
 ---
 
+~~~
+hello carpentry instructors!
+~~~
+{: .output}
+
+~~~
+print("hello carpentry instructors!")
+~~~
+{: .language-python}
+
+~~~
+x <- 4
+~~~
+{: .language-r}
+
+~~~
+x <- c(4,)
+~~~
+{: .language-r}
+
+~~~
+Missing element after comma
+~~~
+{: .error}
+
+Thisis crown down.
+
 This is our first exercise
 
 > ## What is required as an exercise
