@@ -4,4 +4,7 @@ layout: reference
 
 ## Glossary
 
-FIXME
+repository
+:    A group of files in GitHub.
+Got
+:    Version control system.
