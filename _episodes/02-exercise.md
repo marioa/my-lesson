@@ -52,3 +52,21 @@ This is our first exercise
 > > - solution to exercise
 > {: .solution}
 {: .challenge}
+
+You can use code blocks inside exercises.
+
+> ## How to use R code in R-markdown
+>
+> Provide an exame that is to be run by R Markdown.
+> 
+>
+> > ## Solution
+> > Exercise  are inisde a `>` - block and each block must have:
+> >
+> > ```{r}
+> >  x <- 1
+> > 1 -> y
+> > x + y
+> > ```
+> {: .solution}
+{: .challenge}
